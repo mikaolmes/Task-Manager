@@ -2,6 +2,4 @@
 
 This is going to be a Website to manage your Tasks. <br>
 
-I didn't started it yet, but the files are all going to be in the master branch. <br>
-
-The first uploads are going to be on Friday the 14.03.2025.
+The Code will be in the Branach <strong>Master<strong> and also will be updatet Weekly. <br>
