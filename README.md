@@ -7,5 +7,5 @@ The Code will be in the Branach <strong>Master<strong> and also will be updated 
 ## 🎯 What has to be done:
 - [ ] Link the Backend toa frontend
 - [ ] add Delete Operation
-- [ ] Frontend Grundgerüst aufbauen (Header, Footer, evtl. Aside)
+- [ ] Build the basic Framework of the Frontend (Header, Footer, evtl. Aside)
 
