@@ -8,3 +8,6 @@ The Code will be in the Branach **Master** and also will be **updated Weekly**. 
 - [ ] Link the Backend to a frontend
 - [ ] Build the basic Framework of the Frontend (Header, Footer, evtl. Aside)
 
+- [ ] making ideas on how the website should look in the end
+- [ ] 
+
