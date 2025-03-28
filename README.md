@@ -10,5 +10,5 @@ The Code will be in the Branach **Master** and also will be **updated Weekly**. 
 - [ ] Build the basic Framework of the Frontend (Header, Footer, evtl. Aside)
 
 - [ ] Making ideas on how the website should look in the end
-- [ ] Host the Project on Github
+- [ ] Host the Project on Github (Github pages)
 
