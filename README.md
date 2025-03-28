@@ -9,4 +9,5 @@ The Code will be in the Branach **Master** and also will be **updated Weekly**. 
 - [ ] Build the basic Framework of the Frontend (Header, Footer, evtl. Aside)
 - [ ] The Description Variable should be Markdown
 - [ ] Host the Project on Github (Github pages)
-
+- [ ] Link the Socials
+- [ ] Make the different Themes (dark & light)
