@@ -6,9 +6,9 @@ The Code will be in the Branach **Master** and also will be **updated Weekly**. 
 ---
 
 ## 🎯 What has to be done:
-- [ ] Link the Backend to a frontend
+- [X] Link the Backend to a frontend
 - [ ] Build the basic Framework of the Frontend (Header, Footer, evtl. Aside)
 
-- [ ] Making ideas on how the website should look in the end
+- [X] Making ideas on how the website should look in the end
 - [ ] Host the Project on Github (Github pages)
 
