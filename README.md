@@ -12,6 +12,6 @@ The Code will be in the Branach **Master** and also will be **updated Weekly**. 
 - [ ] Find out how to make the Description as Markdown
 - [ ] Host the Project on Github (Github pages)
 - [ ] Link the Socials
-- [ ] - [ ] Make the different Themes (dark & light)
+- [ ] Make the different Themes (dark & light)
 - [ ] Make the whole website Responsive
 
