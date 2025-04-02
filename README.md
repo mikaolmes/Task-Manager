@@ -14,6 +14,3 @@ The Code will be in the Branach **Master** and also will be **updated Weekly**. 
 - [ ] Link the Socials
 - [ ] Make the different Themes (dark & light)
 - [ ] Make the whole website Responsive
-
-
-
