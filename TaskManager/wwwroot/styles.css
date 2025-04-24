@@ -1,0 +1,82 @@
+﻿/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+    button:hover {
+        background-color: #0056b3;
+    }
+
+form {
+    margin-top: 20px;
+}
+
+input, textarea {
+    display: block;
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 100%;
+    max-width: 400px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+    ul li {
+        background-color: #ffffff;
+        border: 1px solid #ddd;
+        padding: 10px;
+        margin-bottom: 5px;
+        border-radius: 4px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+/* Light Theme */
+body.light-theme {
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+    body.light-theme button {
+        background-color: #007bff;
+        color: white;
+    }
+
+/* Dark Theme */
+body.dark-theme {
+    background-color: #1b1b1b;
+    color: #f9f9f9;
+}
+
+    body.dark-theme button {
+        background-color: #444;
+        color: #f9f9f9;
+    }

@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Manager</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body class="light-theme">
+    <header>
+        <h1>Task Manager</h1>
+        <button id="theme-toggle">Switch to Dark Theme</button>
+    </header>
+
+    <main>
+        <section>
+            <h2>Notes</h2>
+            <button id="load-notes">Load Notes</button>
+            <ul id="notes-list"></ul>
+            <h3>Create a Note</h3>
+            <form id="create-note-form">
+                <input type="text" id="note-title" placeholder="Title" required>
+                <textarea id="note-content" placeholder="Content" required></textarea>
+                <input type="text" id="note-category" placeholder="Category" required>
+                <button type="submit">Create Note</button>
+            </form>
+        </section>
+
+        <section>
+            <h2>Tasks</h2>
+            <button id="load-tasks">Load Tasks</button>
+            <ul id="tasks-list"></ul>
+            <h3>Create a Task</h3>
+            <form id="create-task-form">
+                <input type="text" id="task-title" placeholder="Title" required>
+                <textarea id="task-description" placeholder="Description" required></textarea>
+                <input type="date" id="task-due-date" required>
+                <button type="submit">Create Task</button>
+            </form>
+        </section>
+    </main>
+
+    <script src="/script.js"></script>
+</body>
+</html>
