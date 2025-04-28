@@ -17,6 +17,8 @@ The code is located in the **master** branch and will be **updated weekly**.
 | Make the website fully responsive | ⬜ To Do |
 | Persist tasks and notes until manually deleted | ⬜ To Do |
 
++ - [ ] Test
+
 ---
 
 ## 🚀 How to Use Task Manager
