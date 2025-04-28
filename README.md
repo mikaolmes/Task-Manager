@@ -18,6 +18,6 @@ Der Code befindet sich im Branch **master** und wird **wöchentlich aktualisiert
 
 ## 🚀 Verwendung von Task Manager
 1. Projekt starten
-2. Im Browser eingeben: `https://localhost:<port>/index.html` (ersetze `port` durch deinen lokalen Port)
+2. Im Browser eingeben: `https://localhost:<port>/index.html` (ersetze `<port>` durch deinen lokalen Port)
 3. Die Seite sollte dann so aussehen:  
    ![image](https://github.com/user-attachments/assets/b2391ff5-ed11-4424-bf9b-a270f9d39671)
