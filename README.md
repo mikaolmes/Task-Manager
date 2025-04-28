@@ -21,7 +21,7 @@ The code is located in the **master** branch and will be **updated weekly**.
 
 ## 🚀 How to Use Task Manager
 1. Start the project
-2. In your browser, enter: `https://localhost:(port)/index.html` (replace `(port)` with your local port)
+2. In your browser, enter: `https://localhost:<port>/index.html` (replace `<port>` with your local port)
 3. The page should look like this:  
    ![image](https://github.com/user-attachments/assets/b2391ff5-ed11-4424-bf9b-a270f9d39671)
 
